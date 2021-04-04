@@ -1,0 +1,7 @@
+.idea
+trn_venv
+**/__pycache__
+config/.env
+bot.log
+test.py
+todo.txt
